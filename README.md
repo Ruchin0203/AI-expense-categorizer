@@ -9,16 +9,16 @@ Automatically categorize business expenses using AI — powered by LangChain & H
 Upload a CSV of expenses → AI categorizes each one → Download results
 
 **Features:**
-- ✅ AI-powered categorization (13 categories)
+- ✅ AI-powered categorization 
 - ✅ Anomaly detection for suspicious transactions
-- ✅ Confidence scoring (high/medium/low)
+- ✅ Confidence scoring 
 - ✅ Clean dashboard with 3 analysis views
 - ✅ CSV export of categorized data
 - ✅ 100% free using Hugging Face
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -46,7 +46,7 @@ Opens at `http://localhost:8501`
 
 ---
 
-## 📋 How to Use
+##  How to Use
 
 ### Step 1: Prepare CSV
 
@@ -61,7 +61,7 @@ date,amount,description
 
 **Required columns:**
 - `date` - Transaction date
-- `amount` - Dollar amount
+- `amount` - amount
 - `description` - What was purchased
 
 ### Step 2: Upload & Process
@@ -231,25 +231,11 @@ huggingface-hub
 - Data processing (pandas)
 - Security best practices
 
----
-
-## Future Enhancements
-
-- [ ] Batch file processing
-- [ ] Custom categories
-- [ ] PDF/Excel export
-- [ ] Multi-currency support
-- [ ] Receipt OCR
-- [ ] Historical trends
-- [ ] Budget tracking
-
----
-
 ## Contact
 
 **Questions about this project?**
 
-- 📧 Email: your.email@example.com
+- 📧 Email: ruchinpatel0204@gmail.com
 - 💼 LinkedIn: [Ruchin Patel](https://www.linkedin.com/in/ruchin-patel-6b8a1b275/)
 - 💻 GitHub: [@Ruchin0203](https://github.com/Ruchin0203)
 
