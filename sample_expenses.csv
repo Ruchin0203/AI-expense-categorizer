@@ -1,0 +1,36 @@
+date,amount,description,merchant
+05-01-2024,45.5,Uber to downtown office,Uber
+06-01-2024,1250,AWS monthly infrastructure bill,Amazon Web Services
+07-01-2024,29.99,GitHub Team subscription,GitHub
+08-01-2024,85,Team lunch meeting,The Cheesecake Factory
+10-01-2024,450,Flight to client meeting SFO-LAX,United Airlines
+11-01-2024,12.5,Coffee meeting with client,Starbucks
+12-01-2024,99,Canva Pro annual subscription,Canva
+15-01-2024,2500,Office rent - January,Property Management Co
+16-01-2024,15000,Unusual large wire transfer - REVIEW,Unknown Recipient
+17-01-2024,150,Hotel night - client visit,Marriott
+18-01-2024,75,Dinner with marketing team,Olive Garden
+19-01-2024,49.99,Zoom Pro monthly subscription,Zoom
+20-01-2024,199,Adobe Creative Cloud,Adobe
+22-01-2024,8500,Duplicate payment detected,AWS
+23-01-2024,35,Office supplies - printer paper,Staples
+24-01-2024,125,LinkedIn Recruiter seat,LinkedIn
+25-01-2024,450,Google Workspace - team plan,Google
+26-01-2024,89.99,Grammarly Business,Grammarly
+28-01-2024,1200,Freelance designer - logo work,Upwork
+29-01-2024,67.5,Taxi to airport,Lyft
+30-01-2024,850,Facebook Ads campaign,Meta
+31-01-2024,45,Domain renewal - company website,GoDaddy
+01-02-2024,3500,Insurance premium - business,State Farm
+02-02-2024,25.99,Slack premium workspace,Slack
+03-02-2024,180,Team building dinner,Red Lobster
+05-02-2024,750,Google Ads spending,Google Ads
+06-02-2024,95,Internet bill - office,Comcast
+07-02-2024,2200,Laptop for new hire,Apple Store
+08-02-2024,15,Parking downtown,SpotHero
+09-02-2024,299,Ahrefs SEO tool subscription,Ahrefs
+10-02-2024,5500,SUSPICIOUS: After-hours transfer,Unknown
+12-02-2024,425,Conference registration,EventBrite
+13-02-2024,65,Business cards printing,Vistaprint
+14-02-2024,18.5,Lunch meeting,Panera Bread
+15-02-2024,1100,QuickBooks subscription - annual,Intuit
