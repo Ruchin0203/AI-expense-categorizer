@@ -260,6 +260,6 @@ MIT License - feel free to use this project as a template or learning resource.
 
 **⭐ If this helps you, consider giving it a star!**
 
-Made with ❤️ by Ruchin Patel
+Made with ❤️ by [Ruchin Patel](https://github.com/Ruchin0203)
 
 </div>
